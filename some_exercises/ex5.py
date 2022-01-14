@@ -1,3 +1,5 @@
+#Covit-19 in Chile
+
 import requests
 
 url = 'https://corona.lmao.ninja/v2/countries/Chile?yesterday&strict&query%20'
